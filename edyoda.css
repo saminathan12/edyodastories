@@ -1,0 +1,76 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    
+
+   
+}
+#back{
+    background-color: black;
+    margin: 0%;
+}
+#display{
+    padding-left: 65px;
+    margin-left: 0%;
+    display: flex;
+    background: linear-gradient(to right,blue,rgb(255, 0, 0));
+    
+}
+#header{
+    font-family: myfont;
+    text-align: left;
+    margin: 20px;
+    font-family: 'Black Ops One', cursive;
+    font-size: 30px;
+    color: white;
+    
+
+}
+#unorder{
+   
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+    font-family: 'Black Ops One', cursive;
+    margin: 25px;
+    
+   
+    
+}
+.list{
+    color: rgb(255, 255, 255);
+    margin: 5px;   
+}
+.live {
+    display: flex;
+    margin-left: 450px;
+    border-style: solid;
+    color: white;
+    background-color: blue;
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 6px 30px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    
+      
+}
+.section{
+    padding: 40px;
+    display: flex;
+}
+.section h1{
+    padding: 34px;
+    margin: 30px 5px ;
+    color: white;   
+}
+.section img{
+    margin: 50px;
+    height: 50%;
+    width: 50%;
+
+}
+.section2{
+    
+}
